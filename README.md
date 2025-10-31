@@ -1,4 +1,4 @@
-A Hotel Management & Reservation System designed to automate room booking, guest check-in/check-out, billing, and room availability tracking. It improves efficiency by managing guest information, reservations, and staff operations through a secure and user-friendly interface.
+# A Hotel Management & Reservation System designed to automate room booking, guest check-in/check-out, billing, and room availability tracking. It improves efficiency by managing guest information, reservations, and staff operations through a secure and user-friendly interface.
 
 ✅ Features
 
@@ -16,11 +16,11 @@ A Hotel Management & Reservation System designed to automate room booking, guest
 
 🔐 Secure login & role-based access
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 Component	Tech
-Frontend	HTML, CSS, JS (update if different)
-Backend	Java / Python / PHP (update yours)
-Database	MySQL / MongoDB (mention your DB)
+Frontend	HTML, CSS
+Backend	Python 
+Database	MySQL
 Tools	Git, GitHub, VS Code / Eclipse / IntelliJ
 🎯 Objective
 
@@ -38,9 +38,6 @@ git clone https://github.com/yourusername/HMRS.git
  ┣ /assets
  ┣ README.md
  ┗ .gitignore
-
-
-(Modify based on your real folders)
 
 👤 Author
 
